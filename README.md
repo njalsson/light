@@ -5,7 +5,7 @@ Light is a command line tool that changes screen brightness and you have to put 
 
 Instead you could keybind this to a certain key so it opens up and then you can easily change the screen brightness if you use a bloat-free or little machine.
 
-#todo
+## todo
 
 make icon that has a material looking moon and something like that, maybe a vial that lights up and looks like the one from lord of the rings and animate it
 
