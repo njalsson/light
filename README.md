@@ -29,3 +29,14 @@ refractor and minimize the code so that it works as well but is clean
 
 publish it somewhere into maybe arch repository if i can
 
+
+
+## requirements
+
+python 
+PyQt5
+light
+
+2019 njalsson
+https://github.com/njalsson/light
+

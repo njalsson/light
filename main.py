@@ -25,7 +25,7 @@ class App:
 		self.slider.setOrientation(QtCore.Qt.Horizontal)
 		self.slider.setStyleSheet(self.stylesheet())
 		self.slider.valueChanged[int].connect(self.changeValue)
-		self.mainWidget.setGeometry(100,100,500,100)
+		self.mainWidget.setGeometry(100,100,400,200)
 		self.text1 = QtWidgets.QLabel()
 		self.slidervalue = str(self.slidervalue)
 		self.text1.setText('percentage is at {}'.format(self.slidervalue))
